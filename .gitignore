@@ -1,0 +1,9 @@
+log
+reports
+venv
+/*.html
+/*.xml
+/*.png
+.DS_Store
+.idea
+__pycache__
